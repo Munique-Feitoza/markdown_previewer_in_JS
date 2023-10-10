@@ -1,1 +1,2 @@
-# markdown_previewer_in_JS
+# markdown previewer in JavaScript 
+Yeah, I'm not getting many ideas lately...
